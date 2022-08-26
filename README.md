@@ -7,6 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/millermagusteiro3/)
 
 ![Magusteiro GitHub stats](https://github-readme-stats.vercel.app/api?username=magusteiro&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magusteiro&hide=html,css3,sass,javascript,node.js,c#,jquery)](https://github.com/magusteiro/github-readme-stats)
 
 ## Tecnologias que eu uso no dia-a-dia!
 
@@ -20,7 +21,6 @@
     <img align="center" alt="JQUERY" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
     <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img align="center" alt="PHOTOSHOP" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
-    <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
 ## Minha fonte de estudos 
