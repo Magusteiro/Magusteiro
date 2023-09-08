@@ -1,7 +1,7 @@
 ### Olá, eu sou Müller Magusteiro!
 
-- 👨‍💻 Graduando em ADS(Análise e Desenvolvimento de Sistemas)
-- 📚 Estudando Fullstack Developer
+- 👨‍💻 Formado em ADS(Análise e Desenvolvimento de Sistemas)
+- 📚 Estudo constante em  Fullstack  Front-end e Back-and
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%BCller-magusteiro-b590b3230/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/millermagusteiro3/)
