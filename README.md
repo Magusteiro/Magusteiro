@@ -1,4 +1,4 @@
-### Olá, eu sou Müller Magusteiro!
+### Olá, eu sou Müller Magusteiro e apaixonado por tecnologias!
 
 - 👨‍💻 Formado em ADS(Análise e Desenvolvimento de Sistemas)
 - 📚 Estudo constante em  Fullstack  Front-end e Back-and
